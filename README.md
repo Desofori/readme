@@ -4,7 +4,7 @@
 
 • 🌱 I’m currently learning Javascript & React with 60% knowledge in JS.
 
-• 🧑🏽‍💻 I'm good in HTML/CSS, Wireshark, Nmap and CMD
+• 🧑🏽‍💻 I'm good in HTML/CSS, Python, Wireshark, Nmap and CMD
 
 • 💞️ I’m looking to collaborate on with cyber personnels and Programmers since that is my field
 
