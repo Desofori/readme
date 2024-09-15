@@ -58,7 +58,7 @@ This project demonstrates a secure file encryption and decryption system using P
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/Desofori/your-repo-name.git
     cd your-repo-name
     ```
 
@@ -176,12 +176,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [Desmond Ofori Asare] - [desmondscutt84@gmail.com]
 
-Feel free to reach out if you have any questions or need assistance with the project!
-
 ---
-
-Let me know if you need any further changes or additions to the documentation!
-
 
 <!---
 Desofori/Desofori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
