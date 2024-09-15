@@ -58,8 +58,8 @@ This project demonstrates a secure file encryption and decryption system using P
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Desofori/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/Desofori/readme
+    cd readme
     ```
 
 2. Create a virtual environment:
