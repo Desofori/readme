@@ -1,4 +1,4 @@
-• 👋 Hi, I’m Desmond Ofori Asare
+• 👋 Hi, I’m Reptile0bug
 
 • 👀 I’m interested in cybersecurity, Networking, programming and web development
 
